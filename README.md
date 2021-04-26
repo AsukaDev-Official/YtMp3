@@ -3,7 +3,7 @@ YouTube mp3 downloader
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/YtMp3" height="60%" width="100%" src="Screenshot_20210420-003028078.jpg"/>
+     <img alt="AsukaDev-Official/YtMp3" height="60%" width="60%" src="20210427_031223.png"/>
   </a>
 </p>
 
